@@ -1,6 +1,6 @@
 {
   "name": "json-must-eql",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A must.js assertion helper that uses difflet to output exactly where actual and expected JSONs are not eql",
   "main": "index.js",
   "keywords": [
